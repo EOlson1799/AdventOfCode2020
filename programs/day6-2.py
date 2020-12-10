@@ -28,10 +28,4 @@ if __name__ == '__main__':
                 group = []
                 line = f.readline()
 
-    #\\total = countAns(["abc"])
-    #total += countAns(["a", "b", "c"])
-    #total += countAns(["ab", "ac"])
-    #total += countAns(["a", "a", "a", "a"])
-    #total += countAns(["b"])
-
     print(total)
